@@ -26,7 +26,7 @@
   "author": {
     "name": "CJ Taylor",
     "email": "cj.taylor@bluegrass.dev",
-    "organization": "bluegrass-dev"
+    "organization": false
   },
   "devDependencies": {
     "@types/jest": "^26.0.21",

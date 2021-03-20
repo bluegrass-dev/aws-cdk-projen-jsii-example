@@ -3,7 +3,6 @@ const { JsiiProject } = require("projen");
 const project = new JsiiProject({
   author: "CJ Taylor",
   authorAddress: "cj.taylor@bluegrass.dev",
-  authorOrganization: "bluegrass-dev",
   defaultReleaseBranch: "main",
   jsiiFqn: "projen.JsiiProject",
   name: "projen-jsii-example",
