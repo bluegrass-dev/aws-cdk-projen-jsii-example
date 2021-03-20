@@ -1,12 +1,12 @@
-const { JsiiProject } = require("projen");
+const { JsiiProject } = require('projen');
 
 const project = new JsiiProject({
-  author: "CJ Taylor",
-  authorAddress: "cj.taylor@bluegrass.dev",
-  defaultReleaseBranch: "main",
-  jsiiFqn: "projen.JsiiProject",
-  name: "projen-jsii-example",
-  repositoryUrl: "https://github.com/bluegrass-dev/projen-jsii-example.git",
+  author: 'CJ Taylor',
+  authorAddress: 'cj.taylor@bluegrass.dev',
+  defaultReleaseBranch: 'main',
+  jsiiFqn: 'projen.JsiiProject',
+  name: 'projen-jsii-example',
+  repositoryUrl: 'https://github.com/bluegrass-dev/projen-jsii-example.git',
 
   /* JsiiProjectOptions */
   // compat: false,                                                            /* Automatically run API compatibility test against the latest version published to npm after compilation. */
