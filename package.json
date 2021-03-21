@@ -1,8 +1,8 @@
 {
-  "name": "projen-jsii-example",
+  "name": "@blugrass-dev/aws-cdk-projen-jsii-example",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bluegrass-dev/projen-jsii-example.git"
+    "url": "https://github.com/bluegrass-dev/aws-cdk-projen-jsii-example.git"
   },
   "scripts": {
     "projen": "npx projen",
